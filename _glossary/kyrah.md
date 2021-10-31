@@ -3,7 +3,7 @@ title: Kyrah, Göttin der Musik
 type: Gott
 ---
 
-Als eine der fünf Götter wird Kyrah als die Meisterin der Musik und Poesie
+Als eine der fünf Götter wird {% include glossary_link.html title="Kyrah" name="Kyrah, Göttin der Musik" %} als die Meisterin der Musik und Poesie
 verehrt. Es gibt nur wenige Schreine für sie, aber Barden und Dichter rufen sie
 als "die Muse" um Inspiration an. Sie ist die schnellste aller Götter, sowohl in
 Gedanken als auch in Taten. Sie ist in der Lage, in einem Wimpernschlag zu

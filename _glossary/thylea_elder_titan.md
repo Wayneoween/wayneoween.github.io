@@ -1,5 +1,5 @@
 ---
-title: Thylea, Ursprungstitan
+title: Thylea
 type: Titan des Ursprungs
 icon: elder_titan
 ---
