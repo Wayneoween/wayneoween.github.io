@@ -1,0 +1,32 @@
+title:       'The Descent'
+subtitle:    'DnD AUX'
+text_title:  'D&D AUX'
+email:       dnd@cle.ar.it
+baseurl:     "" # the subpath of your site, e.g. /blog
+url:         "https://dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
+author:      heinlef / ichaelus / kratob / wayneoween
+
+# Social Profiles
+twitter_username: Wayneoween
+github_username: Wayneoween
+
+permalink:     /:title/
+paginate:      50
+paginate_path: "/posts/page:num/"
+excerpt_separator: '<!-- more -->'
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-paginate
+  - jekyll-coffeescript
+  - jekyll-feed
+
+collections:
+  characters:
+    output: true
+  glossary:
+    output: false
+  quests:
+    output: false
