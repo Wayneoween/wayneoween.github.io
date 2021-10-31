@@ -104,9 +104,19 @@ header.masthead {
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 45px;
+    font-size: 3rem;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  header.masthead {
+    margin-bottom: 20px;
+  }
+  .post-preview > a > .post-subtitle {
+    font-size: 1.3rem;
+  }
+}
+
 header.masthead .post-heading h1 {
   font-family: 'Diogenes V2';
 }

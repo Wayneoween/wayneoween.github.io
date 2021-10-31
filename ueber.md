@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Über
-description: Wer weiß, wer weiß...
-background: '/img/about.jpg'
+description: Wer weiß, der weiß.
+background: '/img/ueber.jpg'
+background_pos: '50% 80%'
 ---
 
 ## Angaben gemäß § 5 TMG
