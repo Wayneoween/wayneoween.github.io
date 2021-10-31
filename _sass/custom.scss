@@ -58,43 +58,17 @@ header.masthead {
   }
 }
 
-.page-heading-barbarian {
+.page-heading-cinzel {
   color: white;
   text-align: center;
   h1 {
-    font-family: 'Barbarian';
-    color: rgb(241, 235, 214);
-    font-weight: 100;
-    font-size: 2em;
-    text-align: center;
-  }
-  @media only screen and (min-width: 992px) {
-      h1 {
-        font-size: 130px;
-      }
-  }
-  @media only screen and (min-width: 360px) and (max-width: 991px) {
-      h1 {
-          font-size: 80px;
-      }
-  }
-  @media only screen and (min-width: 768px) {
-    padding: 125px 0;
-  }
-  span {
-    font-size: 22px;
-  }
-}
-
-.page-heading-silent_lips {
-  color: white;
-  text-align: center;
-  h1 {
-    font-family: 'Silent_Lips';
+    font-family: 'Cinzel';
     color: rgb(241, 235, 214);
     font-weight: 900;
     font-size: 3em;
     text-align: center;
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
   }
   @media only screen and (min-width: 992px) {
     margin-top: 70px;
@@ -125,28 +99,23 @@ header.masthead {
   }
 }
 
-.page-subheading-silent_lips {
-  color: white;
-  text-align: center;
-  h2 {
-    font-family: 'Silent_Lips';
-    color: rgb(241, 235, 214);
-    font-weight: 100;
-    font-size: 1em;
-    text-align: center;
+.post-title {
+  font-family: 'Diogenes V2';
+}
+@media only screen and (min-width: 768px) {
+  .post-preview > a > .post-title {
+    font-size: 45px;
   }
-  @media only screen and (min-width: 992px) {
-      h2 {
-        font-size: 70px;
-      }
+}
+header.masthead .post-heading h1 {
+  font-family: 'Diogenes V2';
+}
+@media only screen and (min-width: 768px) {
+  header.masthead .post-heading h1 {
+    font-size: 75px;
   }
-  @media only screen and (min-width: 360px) and (max-width: 991px) {
-      h2 {
-          font-size: 40px;
-      }
-  }
-  @media only screen and (min-width: 768px) {
-    padding: 10px 0;
+  header.masthead .post-heading .subheading {
+    font-size: 30px;
   }
 }
 
@@ -207,12 +176,6 @@ ul.post-list {
     }
 }
 
-.burning {
-  h1 {
-    text-shadow: 0px -1px 4px white, 0px -2px 10px yellow, 0px -10px 20px #ff8000, 0px -18px 40px red;
-  }
-}
-
 #mainNav .navbar-nav > li.nav-item > a {
-  font-size: 14px;
+  font-size: 16px;
 }

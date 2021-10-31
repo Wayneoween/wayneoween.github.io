@@ -2,7 +2,8 @@
 title: Charaktere
 layout: page
 includefile: characters
-background: /img/characters.jpg
+background: /img/charaktere.jpg
+background_pos: '50% 100%'
 ---
 
 {% assign characters = site.characters | sort: 'date' %}
@@ -26,7 +27,7 @@ background: /img/characters.jpg
       </div>
     </header>
     <div class="description">
-      {{ post.excerpt }} 
+      {{ post.excerpt }}
     </div>
     <a class="btn btn-primary float-right" href="{{ post.url }}">Mehr</a>
   </div>

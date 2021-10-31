@@ -1,28 +1,93 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
 
-/* Barbarian */
+/* cinzel-regular - latin */
 @font-face {
-  font-family: 'Barbarian';
+  font-family: 'Cinzel';
   font-style: normal;
-  font-weight: 300;
-  src: url('/webfonts/Barbarian.ttf'); /* IE9 Compat Modes */
-  src: local('Barbarian'),
-       url('/webfonts/Barbarian.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('/webfonts/Barbarian.woff') format('woff'), /* Modern Browsers */
+  font-weight: 400;
+  src: url('/webfonts/cinzel/cinzel-v11-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('/webfonts/cinzel/cinzel-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/webfonts/cinzel/cinzel-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/webfonts/cinzel/cinzel-v11-latin-regular.svg#Cinzel') format('svg'); /* Legacy iOS */
+}
+/* cinzel-500 - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/webfonts/cinzel/cinzel-v11-latin-500.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('/webfonts/cinzel/cinzel-v11-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/webfonts/cinzel/cinzel-v11-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/webfonts/cinzel/cinzel-v11-latin-500.svg#Cinzel') format('svg'); /* Legacy iOS */
+}
+/* cinzel-600 - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/webfonts/cinzel/cinzel-v11-latin-600.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('/webfonts/cinzel/cinzel-v11-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/webfonts/cinzel/cinzel-v11-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/webfonts/cinzel/cinzel-v11-latin-600.svg#Cinzel') format('svg'); /* Legacy iOS */
+}
+/* cinzel-700 - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/webfonts/cinzel/cinzel-v11-latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('/webfonts/cinzel/cinzel-v11-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/webfonts/cinzel/cinzel-v11-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/webfonts/cinzel/cinzel-v11-latin-700.svg#Cinzel') format('svg'); /* Legacy iOS */
+}
+/* cinzel-800 - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/webfonts/cinzel/cinzel-v11-latin-800.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('/webfonts/cinzel/cinzel-v11-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/webfonts/cinzel/cinzel-v11-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-800.woff') format('woff'), /* Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/webfonts/cinzel/cinzel-v11-latin-800.svg#Cinzel') format('svg'); /* Legacy iOS */
+}
+/* cinzel-900 - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/webfonts/cinzel/cinzel-v11-latin-900.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('/webfonts/cinzel/cinzel-v11-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/webfonts/cinzel/cinzel-v11-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('/webfonts/cinzel/cinzel-v11-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/webfonts/cinzel/cinzel-v11-latin-900.svg#Cinzel') format('svg'); /* Legacy iOS */
 }
 
-/* Silent Lips */
 @font-face {
-  font-family: 'Silent_Lips';
+  font-family: "Diogenes V2";
   font-style: normal;
-  font-weight: 300;
-  src: url('/webfonts/Silent_Lips.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'Silent_Lips';
-  font-style: bold;
-  font-weight: 300;
-  src: url('/webfonts/Silent_Lips-Bold.woff') format('woff');
+  src: url("/webfonts/diogenes/f2335403581060d560f6a740f1ba6c76.eot"); /* IE9*/
+  src: local(''),
+      url("/webfonts/diogenes/f2335403581060d560f6a740f1ba6c76.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+       url("/webfonts/diogenes/f2335403581060d560f6a740f1ba6c76.woff2") format("woff2"), /* chrome、firefox */
+       url("/webfonts/diogenes/f2335403581060d560f6a740f1ba6c76.woff") format("woff"), /* chrome、firefox */
+       url("/webfonts/diogenes/f2335403581060d560f6a740f1ba6c76.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+       url("/webfonts/diogenes/f2335403581060d560f6a740f1ba6c76.svg#Diogenes V2") format("svg"); /* iOS 4.1- */
 }

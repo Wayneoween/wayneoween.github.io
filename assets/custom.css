@@ -1,6 +1,8 @@
 body {
-  background-color: #ffffff;
-  background-image: url("/assets/img/background.jpg");
-  background-attachment: fixed;
-  background-position: center;
+  background-color: #fff9e5;
+  background-image: url('/assets/img/background.png');
+}
+
+object {
+  max-width: 100%;
 }

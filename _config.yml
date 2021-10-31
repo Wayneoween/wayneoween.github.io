@@ -1,12 +1,10 @@
-title:       'The Descent'
-subtitle:    'DnD AUX'
+title:       'Die Odyssee'
 text_title:  'D&D AUX'
 email:       dnd@cle.ar.it
 baseurl:     "" # the subpath of your site, e.g. /blog
-url:         "https://dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
+url:         "https://dndaux.de"
 author:      heinlef / ichaelus / kratob / wayneoween
 
-# Social Profiles
 twitter_username: Wayneoween
 github_username: Wayneoween
 
@@ -18,7 +16,7 @@ excerpt_separator: '<!-- more -->'
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-coffeescript
   - jekyll-feed
