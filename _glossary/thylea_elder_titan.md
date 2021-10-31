@@ -1,5 +1,5 @@
 ---
-title: Thylea
+title: Thylea, Mutter aller
 type: Titan des Ursprungs
 icon: elder_titan
 ---
