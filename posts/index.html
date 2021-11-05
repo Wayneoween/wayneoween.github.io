@@ -16,13 +16,7 @@ background_pos: '50% 50%'
     <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
     {% endif %}
   </a>
-  <p class="post-meta">Posted by
-    {% if post.author %}
-    {{ post.author }}
-    {% else %}
-    {{ site.author }}
-    {% endif %}
-    on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+  <p class="post-meta">Erlebt am {% include de_date.html %} &middot; {% include read_time.html content=post.content %}
   </p>
 </article>
 
