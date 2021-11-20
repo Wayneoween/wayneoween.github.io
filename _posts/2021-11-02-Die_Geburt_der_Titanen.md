@@ -26,7 +26,6 @@ Fleisch, rissen und kauten, bis nur noch sieben mit Stacheln besetzte Kerne
 
 Anstatt zu sinken, trieben die Kerne auf den Wellen und wippten auf und ab.
 Beleidigt durch ihre spöttische Anwesenheit, ergriff {% include glossary_link.html title="Kentimane" %}
-
 sie alle mit einer geballten Fäusten und drückte so fest zu, dass sich die
 Stacheln in sein Fleisch bohrten und Blut strömte. Brüllend vor Wut stieß
 {% include glossary_link.html title="Kentimane" %} die Kerne ins Wasser und begrub
