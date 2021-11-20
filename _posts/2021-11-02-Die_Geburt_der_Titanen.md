@@ -46,7 +46,7 @@ und Schnelligkeit. Als diese sechs Titanen von Kindern zu Erwachsenen
 heranwuchsen, wurden sie zu Halbgöttern, die jeweils den Aspekt ihrer Eltern
 repräsentierten, den sie am meisten verkörperten.
 
-Aus der siebten Grube wurden jedoch zwei Titanen geboren:
+Aus dem siebten Kern wurden jedoch zwei Titanen geboren:
 {% include glossary_link.html title="Sydon" name="Sydon, Herr der Stürme" %} und
 {% include glossary_link.html title="Lutheria" name="Lutheria, Herrin des Todes" %}, die
 Zwillinge. {% include glossary_link.html title="Sydon" name="Sydon, Herr der Stürme" %}
