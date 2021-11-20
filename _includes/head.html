@@ -9,10 +9,8 @@
   </title>
 
   <meta content="{{ site.title }}" property="og:site_name">
-  {% if page.title %}
+  {% if page.title != site.title %}
     <meta content="{{ page.title }}" property="og:title">
-  {% else %}
-    <meta content="{{ site.title }}" property="og:title">
   {% endif %}
   {% if page.title %}
     <meta content="article" property="og:type">
@@ -31,8 +29,6 @@
   {% endif %}
   {% if page.background %}
     <meta content="{{ site.url }}{{ page.background }}" property="og:image">
-  {% else %}
-    <meta content="{{ site.url }}/assets/img/logo-high-resolution.png" property="og:image">
   {% endif %}
   {% if page.categories %}
     {% for category in page.categories limit:1 %}
@@ -47,13 +43,9 @@
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
   <link rel="stylesheet" href="{{"/assets/vendor/bootstrap/css/bootstrap.min.css" | relative_url }}">
-
   <link rel="stylesheet" href="{{"/assets/vendor/fontawesome-free/css/all.min.css" | relative_url }}">
-
   <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-
 </head>
