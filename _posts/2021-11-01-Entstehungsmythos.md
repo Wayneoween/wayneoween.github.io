@@ -1,6 +1,6 @@
 ---
 date: '2021-11-01 00:00:00'
-title: Foo
+title: O mýthos tis dimiourgías
 excerpt: Der Mythos über die Entstehung der Welt
 author: Akira die Bardin
 layout: post
@@ -8,7 +8,8 @@ background: "/img/posts/thylea_creation.jpg"
 background_pos: 50% 80%
 ---
 
-Thylea gehörte zu den alten Göttern - sie war schon alt, als die Welt noch jung
+{% include glossary_link.html title="Thylea" name="Thylea, Mutter aller" %}
+gehörte zu den alten Göttern - sie war schon alt, als die Welt noch jung
 war. Sie war sanftmütig und großzügig und wurde in einer Zeit des Krieges und
 des Chaos unter ihresgleichen geboren. Da sie sich weigerte, in den
 Auseinandersetzungen eine Seite einzunehmen, lebte sie ihr ganzes Leben in
@@ -20,13 +21,14 @@ mit den Hundert Händen - der gewalttätigste und kriegerischste von allen -
 fühlte sich von ihrer stillen Stärke angezogen. Von allen Göttern konnte nur sie
 sein wütendes Temperament mit ihrem ruhigen Geist besänftigen.
 
-Schließlich wurde Thylea des endlosen Streits und der Konflikte müde. Sie
+Schließlich wurde {% include glossary_link.html title="Thylea" name="Thylea, Mutter aller" %} des endlosen Streits und der Konflikte müde. Sie
 isolierte sich von den anderen Göttern und suchte an den äußersten Rändern des
 Ozeans Zuflucht. {% include glossary_link.html title="Kentimane" %} - jetzt ihr
 Geliebter und Beschützer - folgte ihr und wandte sich von Krieg und Gewalt ab,
-um mit Thylea den Weg der Stille zu gehen.
+um mit {% include glossary_link.html title="Thylea" name="Thylea, Mutter aller" %} den Weg der Stille zu gehen.
 
-Alleine waren die beiden eine Zeit lang glücklich. Doch Thylea spürte noch immer
+Alleine waren die beiden eine Zeit lang glücklich. Doch
+{% include glossary_link.html title="Thylea" name="Thylea, Mutter aller" %} spürte noch immer
 all den Schmerz und das Leid in der Welt wie eine Million Pfeile, die ihre
 sanfte Seele durchbohrten. Mit der Zeit wich ihre Freude der Verzweiflung, bis
 sie es nicht mehr ertragen konnte und sich in den Fluten ertränkte.
@@ -40,7 +42,8 @@ Meeresgrund, dehnten sich aus und verdrehten sich zu großen Wurzeln, die jede
 Insel miteinander verbanden und fruchtbare Gewächse und sanfte Lebewesen
 nährten, die auf der Oberfläche der Inseln entstanden waren.
 
-Kentimanes Trauer über den Tod seiner Geliebten war unermesslich. Ohne Thylea,
+Kentimanes Trauer über den Tod seiner Geliebten war unermesslich. Ohne
+{% include glossary_link.html title="Thylea" name="Thylea, Mutter aller" %},
 die seine Launen milderte, erlag er einmal mehr seinen heftigsten Trieben. Er
 schrie seine Wut zum Himmel und tobte in den Ozeanen um den Körper seiner
 Geliebten herum, entfesselte schreckliche Stürme und gewaltige Flutwellen, die
