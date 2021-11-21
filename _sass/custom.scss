@@ -3,6 +3,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+ul a{
+  text-decoration: underline;
+}
+
 .glossary-item {
   h3, h4 {
     display: inline;
@@ -230,3 +235,4 @@ ul.post-list {
   color: transparent; /** to hide the character **/
   content: 'W'; /** a character in your font to use as width **/
 }
+
