@@ -107,9 +107,19 @@ die `/charaktere/`-Seite nach einer Änderung an einem `/_charaktere/$charname.m
 nicht aktualisiert, muss `_site/charaktere/index.html` gelöscht werden, um das
 erneute Generieren der Seite zu erzwingen.
 
+### Bilder
+Bilder werden in `img/*` abgelegt und können in den Markdown files mit `<img>` tags
+normal referenziert werden. Große Bilder sollten vorher etwas kleiner skaliert werden.
+700px entspricht aktuell der Maximalbreite von Bildern in Beiträgen:
+
+```sh
+convert img/posts/eber.png -resize x700 -strip -quality 85 img/posts/eber_low_res.png
+```
+
 ## Development
 
 * Install rbenv + ruby (see `.ruby-version` for version information)
+* Install NodeJS 16.x or similar
 * Run `bundle`
 * Open a terminal and run
   * `make serve` or `bundle exec jekyll server --watch --livereload`
