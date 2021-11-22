@@ -1,4 +1,4 @@
-# D&D Aux: Descent into avernus
+# D&D Aux: Odyssey of the Dragonlords
 
 Hier sammeln wir die Recaps unserer Abenteuer in [Odyssey of the Dragonlords](https://www.modiphius.net/collections/odyssey-of-the-dragonlords).
 

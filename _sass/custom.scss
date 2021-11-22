@@ -235,7 +235,7 @@ ul.post-list {
   left: 0;
   z-index: 1;
   background: red;
-  background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,0,0,1) 61%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(90deg, red 0%, red 85%, #ff00006b 100%);
   mix-blend-mode: screen;
   pointer-events: none; /** to enable selected of the text under the pseudo element **/
   color: transparent; /** to hide the character **/
