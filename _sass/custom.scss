@@ -221,9 +221,10 @@ ul.post-list {
 .rhyme blockquote {
   white-space: pre-line;
   position: relative;
-  font-family: Inconsolata, monospace; /** to have constant character width **/
+  font-family: 'Diogenes V2'; /** to have constant character width **/
   color: black;
   font-style: normal;
+  letter-spacing: 2px;
 }
 
 /* First letter highlighting, credits to: https://stackoverflow.com/a/44913877 */
@@ -237,5 +238,5 @@ ul.post-list {
   mix-blend-mode: screen;
   pointer-events: none; /** to enable selected of the text under the pseudo element **/
   color: transparent; /** to hide the character **/
-  content: 'W'; /** a character in your font to use as width **/
+  content: 'F'; /** a character in your font to use as width **/
 }
