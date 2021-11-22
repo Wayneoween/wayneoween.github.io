@@ -208,6 +208,10 @@ ul.post-list {
   font-size: 16px;
 }
 
+.post blockquote {
+  color: #800909;
+}
+
 .rhyme {
   display: flex;
   justify-content: center;
@@ -235,4 +239,3 @@ ul.post-list {
   color: transparent; /** to hide the character **/
   content: 'W'; /** a character in your font to use as width **/
 }
-
