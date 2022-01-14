@@ -14,10 +14,10 @@ Es vergeht einige Zeit, bevor sie spricht.
 
 <div class="rhyme">
   <blockquote>
-    Ihr hier versammelten Krieger werden auf eine Probe gestellt.
-    Das Schicksal hat drei große Aufgaben offenbart.
-    Aufgaben, die ihr erfüllt werden müssen, bevor ihr bereit seid.
-    Bereit, in die drei Meere zu segeln, und euch den Titanen zu stellen.
+    Ihr hier versammelten Krieger werdet auf eine Probe gestellt.
+    Die Schicksale haben drei große Aufgaben offenbart.
+    Aufgaben, die ihr erfüllen müssen, bevor ihr bereit seid.
+    Bereit, in die drei Meere zu segeln und euch den Titanen zu stellen.
 
     Ihr müsst die silbernen Feuer der verlorenen Schmiede formen.
     Ein Feuer, um die Werkzeuge herzustellen, die ihr brauchen werdet.
