@@ -1,4 +1,5 @@
 ---
+name: Versi
 type: Orakel
 ---
 

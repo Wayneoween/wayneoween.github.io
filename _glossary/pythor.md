@@ -11,5 +11,5 @@ Eroberungen im Schlafzimmer auflisten.
 
 Im Jahr 330 CE stürzte {% include glossary_link.html title="Pythor" name="Pythor, Gott der Kampfes" %}
 den tyrannischen König Lysis Arkelander und
-bestieg den Thron von Estoria. Seit nunmehr fast zweihundert Jahren regiert er
+bestieg den Thron von {% include glossary_link.html title="Estoria" %}. Seit nunmehr fast zweihundert Jahren regiert er
 die Stadt als König und Gott.
