@@ -129,6 +129,7 @@ convert img/posts/eber.png -resize x700 -strip -quality 85 img/posts/eber_low_re
 
 ## TL;DR neuer Eintrag
 * Eintrag als Markdown in `./_posts` anlegen und befüllen
+* Text durch einen spell checker jagen
 * Bilder nach `./img/posts/` legen und verkleinern: `convert img/posts/$NAME.png -resize x700 -strip -quality 85 img/posts/$NAME_low_res.png`
 * Änderungen committen und Glossar verlinken: `./glossary_preproc.rb _posts/$POST.md`
 * Rendering [lokal](http://127.0.0.1:4000/) prüfen, Typos finden: `bundle exec jekyll server --watch --livereload`
