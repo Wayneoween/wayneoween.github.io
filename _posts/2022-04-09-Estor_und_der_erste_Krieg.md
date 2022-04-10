@@ -9,7 +9,7 @@ background_pos: 50% 30%
 game_date: 13. Volkion 499
 ---
 
-Von allen Drachenlords waren die Brüder Telamok und {% include glossary_link.html title="Estor Arkelander" %} die
+Von allen Drachenlords waren die Brüder {% include glossary_link.html title="Telamok" name="Telamok Arkelander" %} und {% include glossary_link.html title="Estor Arkelander" %} die
 rücksichtslosesten und wildesten. {% include glossary_link.html title="Telamok" name="Telamok Arkelander" %}, der Ältere, träumte davon, ein großer
 König zu sein. Er bot jedem, der ihm die Treue schwor, seinen Schutz und den
 seines Drachens an. Er versprach eine Zukunft, in der die so genannte
@@ -66,3 +66,45 @@ hatten. {% include glossary_link.html title="Sydon" name="Sydon, Herr der Stürm
 qualvolle Vergeltung zu üben.
 
 Der Erste Krieg hatte begonnen.
+
+Aber auch ohne sein Reittier setzte {% include glossary_link.html title="Estor" name="Estor Arkelander" %} seinen blutrünstigen Krieg gegen die
+Einheimischen von Thylea als Kapitän der Ultros fort, einem magischen Schiff
+mit einer Besatzung, die fast so wild und skrupellos war wie {% include glossary_link.html title="Estor" name="Estor Arkelander" %} selbst. Die
+Besatzung der Ultros verwüstete die Inseln von Thylea und hinterließ ein
+Gemetzel nach dem anderen. {% include glossary_link.html title="Sydon" name="Sydon, Herr der Stürme" %} warf alles was er hatte gegen das Schiff und
+versuchte, es mit hunderten Fuß hohen Wellen zu zertrümmern oder es auf den
+Meeresgrund zu ziehen. Aber die Magie der Ultros war so mächtig, dass selbst der
+Gott der Stürme sie nicht versenken konnte.
+
+![Ultros](/img/posts/greek_ship.jpg)
+
+Am Anfang des Krieges errangen die Siedlervölker viele Siege. Angeführt von den
+Drachenlords besiegten sie die unorganisierten Armeen der Thyleas mit
+Leichtigkeit. Die Kinder von Thylea konnten sich nicht gegen die großen Drachen
+behaupten und wurden immer wieder zurückgeschlagen.
+
+Das Blatt wendete sich allerdings zu Gunsten der einheimischen Völker als die
+Titanen ihrerseits Ordnung in ihre Ränge brachten und sich selbst mehr
+einbrachten. Wann immer sich die Drachen in die Lüfte erhoben, peitschte {% include glossary_link.html title="Sydon" name="Sydon, Herr der Stürme" %}
+sie mit rasenden Winden und Blitzen und zwang sie zu Boden, wo sie dem Zorn
+Lutherias ausgeliefert waren, die sie mit ihrer bösen Sense und Todesmagie
+angriff.
+
+![Drache im Sturm](/img/posts/dragon_storm.jpg)
+
+Viele Drachen gingen zugrunde, andere flohen. Doch der silberne Drache
+Balmythria wusste, dass {% include glossary_link.html title="Lutheria" name="Lutheria, Herrin des Todes" %} und {% include glossary_link.html title="Sydon" name="Sydon, Herr der Stürme" %} sie letztlich alle finden würden. In
+ihrem letzten Kampf gegen die Tyrannei der Titanen warf sich der silberne Drache
+rücksichtslos gegen sie, riss und krallte sich fest, selbst nachdem sie
+zahlreiche tödliche Verletzungen erlitten hatte. Als ihre Kräfte erschöpft
+waren, sank sie tot zu Boden und die Zwillinge spuckten auf ihren Leichnam.
+
+Der Tod des mächtigen Drachen Balmythria riss unerwartet ein Loch in das Gefüge
+der Realität. Inspiriert von ihrem Opfer erhörten fünf himmlische Wesen ihr
+Gebet und kamen nach Thylea, um ihre Aufgabe, das Volk der Siedler zu schützen,
+zu übernehmen. Diese Wesen sind als die Fünf Götter bekannt, die wir noch heute
+verehren: {% include glossary_link.html title="Mytros" name="Mytros, Göttin der Dämmerung" %}, {% include glossary_link.html title="Volkan" name="Volkan, Gott der Schmiede" %}, {% include glossary_link.html title="Pythor" name="Pythor, Gott des Kampfes" %}, {% include glossary_link.html title="Vallus" name="Vallus, Göttin der Weisheit" %} und {% include glossary_link.html title="Kyrah" name="Kyrah, Göttin der Musik" %}.
+
+{% include glossary_link.html title="Mytros" name="Mytros, Göttin der Dämmerung" %}
+opferte sich sogleich, um den Riss zwischen den Welten zu heilen. Eine Tat,
+für die wir bis heute dankbar sind.
