@@ -12,9 +12,8 @@ game_date: 13. Volkion 499
 Von allen Drachenlords waren die Brüder {% include glossary_link.html title="Telamok" name="Telamok Arkelander" %} und {% include glossary_link.html title="Estor Arkelander" %} die
 rücksichtslosesten und wildesten. {% include glossary_link.html title="Telamok" name="Telamok Arkelander" %}, der Ältere, träumte davon, ein großer
 König zu sein. Er bot jedem, der ihm die Treue schwor, seinen Schutz und den
-seines Drachens an. Er versprach eine Zukunft, in der die so genannte
-zivilisierte Spezies die völlige Vorherrschaft über Thylea und die Feenwesen
-haben würde.
+seines Drachens an. Er versprach eine Zukunft, in der die Siedlervölker die
+Vorherrschaft über Thylea und die Feenwesen haben würde.
 
 Sterbliche aller Völker scharten sich um sein Banner. Er baute Festungen und
 befestigte Städte, um seine Anhänger vor Angriffen zu schützen, und legte damit
