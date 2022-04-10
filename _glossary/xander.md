@@ -3,4 +3,4 @@ title: Xander Huorath
 type: Person
 ---
 
-Xander war der erste und oberste Drachenlord, der seinen Eid an den großen Silberdrachen Balmythria schwur.
+{% include glossary_link.html title="Xander" name="Xander Huorath" %} war der erste und oberste Drachenlord, der seinen Eid an den großen Silberdrachen Balmythria schwur.

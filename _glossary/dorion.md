@@ -3,4 +3,4 @@ title: Dorion Neurdagon
 type: Person
 ---
 
-Über Dorion ist uns noch nicht viel bekannt.
+Über {% include glossary_link.html title="Dorion" name="Dorion Neurdagon" %} ist uns noch nicht viel bekannt.

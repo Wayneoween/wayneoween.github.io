@@ -10,6 +10,6 @@ legendären Heldentaten auf dem Schlachtfeld besungen, während viele andere sei
 Eroberungen im Schlafzimmer auflisten.
 
 Im Jahr 330 CE stürzte {% include glossary_link.html title="Pythor" name="Pythor, Gott des Kampfes" %}
-den tyrannischen König Lysis Arkelander und
+den tyrannischen König {% include glossary_link.html title="Lysis Arkelander" %} und
 bestieg den Thron von {% include glossary_link.html title="Estoria" %}. Seit nunmehr fast zweihundert Jahren regiert er
 die Stadt als König und Gott.

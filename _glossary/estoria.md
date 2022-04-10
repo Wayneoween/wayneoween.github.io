@@ -10,7 +10,6 @@ Norden ausgerichtet ist.
 
 Der Arkelon selbst fließt am nördlichen Rand der Festung entlang und bildet
 einen natürlichen Graben, der nur über eine Brücke am Nordtor oder an der Furt
-beim Felsen von {% include glossary_link.html title="Estor" name="Estor
-Arkelander" %} überquert werden kann. Auf der der Stadt abgewandten Seite des
-Flusses befinden sich Graslandschaften, auf denen Zentaurengruppen
-patrouillieren.
+beim Felsen von {% include glossary_link.html title="Estor" name="Estor Arkelander" %}
+überquert werden kann. Auf der der Stadt abgewandten Seite des Flusses befinden
+sich Graslandschaften, auf denen Zentaurengruppen patrouillieren.
