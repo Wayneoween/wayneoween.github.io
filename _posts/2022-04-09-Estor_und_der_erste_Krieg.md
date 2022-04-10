@@ -78,9 +78,9 @@ Gott der Stürme sie nicht versenken konnte.
 ![Ultros](/img/posts/greek_ship.jpg)
 
 Am Anfang des Krieges errangen die Siedlervölker viele Siege. Angeführt von den
-Drachenlords besiegten sie die unorganisierten Armeen der Thyleas mit
-Leichtigkeit. Die Kinder von Thylea konnten sich nicht gegen die großen Drachen
-behaupten und wurden immer wieder zurückgeschlagen.
+Drachenlords besiegten sie die unorganisierten Armeen Thyleas mit Leichtigkeit.
+Die Kinder von Thylea konnten sich nicht gegen die großen Drachen behaupten und
+wurden immer wieder zurückgeschlagen.
 
 Das Blatt wendete sich allerdings zu Gunsten der einheimischen Völker als die
 Titanen ihrerseits Ordnung in ihre Ränge brachten und sich selbst mehr
@@ -98,11 +98,11 @@ rücksichtslos gegen sie, riss und krallte sich fest, selbst nachdem sie
 zahlreiche tödliche Verletzungen erlitten hatte. Als ihre Kräfte erschöpft
 waren, sank sie tot zu Boden und die Zwillinge spuckten auf ihren Leichnam.
 
-Der Tod des mächtigen Drachen Balmythria riss unerwartet ein Loch in das Gefüge
-der Realität. Inspiriert von ihrem Opfer erhörten fünf himmlische Wesen ihr
-Gebet und kamen nach Thylea, um ihre Aufgabe, das Volk der Siedler zu schützen,
-zu übernehmen. Diese Wesen sind als die Fünf Götter bekannt, die wir noch heute
-verehren: {% include glossary_link.html title="Mytros" name="Mytros, Göttin der Dämmerung" %}, {% include glossary_link.html title="Volkan" name="Volkan, Gott der Schmiede" %}, {% include glossary_link.html title="Pythor" name="Pythor, Gott des Kampfes" %}, {% include glossary_link.html title="Vallus" name="Vallus, Göttin der Weisheit" %} und {% include glossary_link.html title="Kyrah" name="Kyrah, Göttin der Musik" %}.
+Der Tod und das Opfer des mächtigen Drachen Balmythria riss unerwartet ein Loch
+in das Gefüge der Realität. Inspiriert von ihrem Opfer erhörten fünf himmlische
+Wesen ihr Gebet und kamen nach Thylea, um ihre Aufgabe, das Volk der Siedler zu
+schützen, zu übernehmen. Diese Wesen sind als die Fünf Götter bekannt, die wir
+noch heute verehren: {% include glossary_link.html title="Mytros" name="Mytros, Göttin der Dämmerung" %}, {% include glossary_link.html title="Volkan" name="Volkan, Gott der Schmiede" %}, {% include glossary_link.html title="Pythor" name="Pythor, Gott des Kampfes" %}, {% include glossary_link.html title="Vallus" name="Vallus, Göttin der Weisheit" %} und {% include glossary_link.html title="Kyrah" name="Kyrah, Göttin der Musik" %}.
 
 {% include glossary_link.html title="Mytros" name="Mytros, Göttin der Dämmerung" %}
 opferte sich sogleich, um den Riss zwischen den Welten zu heilen. Eine Tat,
