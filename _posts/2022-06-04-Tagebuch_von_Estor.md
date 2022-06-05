@@ -1,12 +1,12 @@
 ---
-date: '2022-04-09 19:00:00'
+date: '2022-06-04 19:00:00'
 title: Periodiká tou Estor
 excerpt: Tagebücher des Estor
 author: Estor Arkelander
 layout: post
 background: "/img/posts/ultros_diary.jpg"
 background_pos: 0% 0%
-game_date: 13. Volkion 499
+game_date: 21. Volkion 499
 ---
 
 ## Einträge aus der Zeit der ersten Jahren des ersten Krieges
