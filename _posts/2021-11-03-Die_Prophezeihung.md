@@ -8,7 +8,7 @@ background: "/img/posts/thylea_creation.jpg"
 background_pos: 50% 80%
 ---
 
-Das Orakel Versi atmet den Nebel, der sie umgibt, tief ein. Sie starrt jedem von euch in die Augen und erforscht eure Seelen mit durchdringenden Blick.
+Das Orakel {% include glossary_link.html title="Versi" %} atmet den Nebel, der sie umgibt, tief ein. Sie starrt jedem von euch in die Augen und erforscht eure Seelen mit durchdringenden Blick.
 
 Es vergeht einige Zeit, bevor sie spricht.
 
