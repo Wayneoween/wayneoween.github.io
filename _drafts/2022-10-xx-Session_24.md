@@ -1,5 +1,5 @@
 ---
-date: '2022-10-09 14:00:00'
+date: '2022-11-05 14:00:00'
 title: Todo
 excerpt: todo
 author: Akira die Bardin
@@ -17,7 +17,9 @@ game_date: 2. Kention 499
 
 ## Akira, Notizen zum Epos
 
-### 2. Kention
+## 6. Kention
+
+
 <!--
 todo mehr über narsus herausfinden (6. gott)
 
@@ -28,4 +30,10 @@ antikithera kann  auf festen boden man durch sternbilder (mapped auf inseln) auf
 Mithral Shortsword +1 bestellt, am 10. tagen fertig.
 
 keledone, kann singen aber v.a. dinge und nachrichten an volkan schicken. sie ist an das schiff gebunden und es auch verteidigen.
+
+pythor und ein grüner drache hängen zusammen, haben wir in telamok gehört
+
+Moxena ist auch dabei
+next stop themis, antikithera wird eingestellt
+
 -->
