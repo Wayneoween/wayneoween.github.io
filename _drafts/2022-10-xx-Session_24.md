@@ -41,6 +41,10 @@ Moxena erzählt uns, dass die neue  Tesilea mit magischenen Helmen Lutherias aus
 
 Am Strand sehen wir eine Herde Antilophen, eine davon versteinert. Vier Basilisken kommen auf uns zu, werden aber zurückgerufen.
 
+Dahinter kommen Amazonen-Jängerinnen auf Nashörnern angeritten. Sie duzen Tiameia, bezeichnen uns als Abschaum und schießen mit einem Speer auf Timos. Der Streit eskaliert, als dieser ihn zurückwirft.
+
+
+
 <!--
 todo mehr über narsus herausfinden (6. gott)
 
@@ -56,5 +60,7 @@ pythor und ein grüner drache hängen zusammen, haben wir in telamok gehört
 
 Moxena ist auch dabei
 next stop themis, antikithera wird eingestellt
+
+d
 
 -->
