@@ -61,8 +61,7 @@ Antigone führt uns in eine Falle, klatscht in die Hände und sperrt uns zwische
 
 Aus löchern schieße der Kopf einer Hydra hervor. 10 köpfe! bald schon 11. Loreus geht zu boden. Wacker halten wir unsere Stellung und spötteln über die feigen Amazonen. Die hydra verzieht sich aus ihrem Raum in den Ozean.
 
-Mit vereinten Kräfen schaffen wir es, die verriegelten Türen / Gitter zu öffnen.
-
+Mit vereinten Kräfen schaffen wir es, die verriegelten Türen / Gitter zu öffnen. Dahinter finden wir zwei schlafende - und bald gefesselte - Amazonen. Eine erkennt Moxena. Eine Informantin. Sie scheinen auf unserer seite.
 
 
 >A group of adventurers that just landed on a beach being attacked by basilisks and fierce amazons riding on rhinos, digital art
