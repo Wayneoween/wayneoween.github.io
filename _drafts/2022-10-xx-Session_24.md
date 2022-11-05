@@ -66,6 +66,18 @@ Mit vereinten Kräfen schaffen wir es, die verriegelten Türen / Gitter zu öffn
 
 >A group of adventurers that just landed on a beach being attacked by basilisks and fierce amazons riding on rhinos, digital art
 
+Die königin hat sich verändert und kommuniziert gerne mit lutheria. Es gibt maenaden und die Amazonen dürfen nicht mehr in ihren Stämmen den Tieren nachziehen. Es geht nur noch ums trainieren, schiffe bauen, vermehren, ohne ein ziel dafür konkret genannt zu bekommen. Hydra ist auch neu, gibt nur noch Lutheria. EIne frau ist stumm, erkennt Tiameia. Sie gibt uns einen schhlüssel zu den gefangenen zellen.
+
+In der letzten zelle ist eine dunkelhäutige frau. Alte freundin Darien mit markanten Narben. Sie war offenbar sehr sehr lange hier, wurde in eine magisch verstummte zelle gesperrt.
+
+Zwei "lizards" sind hier gefangen, um einen Sohn ihres Schmieds zu retten. Er sei wohl nahe, das fühlen sie durch den Stein. "Brondt".
+
+Die ersten beiden Amazonen schwören einen Eid an Tia, "Schwesternschaft der gleichen"
+
+> Zitat von lea
+
+
+
 
 <!--
 todo mehr über narsus herausfinden (6. gott)
