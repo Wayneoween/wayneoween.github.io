@@ -1,7 +1,7 @@
 ---
 date: '2022-11-05 14:00:00'
 title: Todo
-excerpt: todo
+excerpt: Ein alter Codex wiederendeckt
 author: Akira die Bardin
 layout: post
 background: "/img/posts/todo.png"
@@ -11,7 +11,9 @@ game_date: 2. Kention 499
 
 <div class="rhyme">
   <blockquote>
-  
+EINE SCHWESTERNSCHAFT DER GLEICHEN,
+UNSERE STÄRKE IM KAMPF GESCHMIEDET.
+BESSER TOD ALs EHRENLOS
   </blockquote>
 </div>
 
@@ -70,13 +72,11 @@ Die königin hat sich verändert und kommuniziert gerne mit lutheria. Es gibt ma
 
 In der letzten zelle ist eine dunkelhäutige frau. Alte freundin Darien mit markanten Narben. Sie war offenbar sehr sehr lange hier, wurde in eine magisch verstummte zelle gesperrt.
 
-Zwei "lizards" sind hier gefangen, um einen Sohn ihres Schmieds zu retten. Er sei wohl nahe, das fühlen sie durch den Stein. "Brondt".
+Zwei "lizards" sind hier gefangen, um einen Sohn ihres Schmieds zu retten. Er sei wohl nahe, das fühlen sie durch den Stein. "Brondt, sohn von Xeros, großer schmied vom feuerberg". Amazonen haben ihr Zuhause überfallen. Einäugiger Riese, entführt auf Heurosias Geheis (schwester von tesilea). Ist ganz unten im Fels, in der nähe der schwester und weiteren amazonen.
 
 Die ersten beiden Amazonen schwören einen Eid an Tia, "Schwesternschaft der gleichen"
 
-> Zitat von lea
-
-
+täglich wird eine phiole blut zum tempel gebracht.
 
 
 <!--
