@@ -1,5 +1,5 @@
 ---
-title: Chalcia die Weise
+title: Chalcia dise Weie
 type: Titan
 ---
 
