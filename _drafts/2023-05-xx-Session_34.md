@@ -43,6 +43,12 @@ in der höhle ist raum und zeit verzerrt. wir treffen tiameia, dann sind wir in 
 
 timos: banner reparieren, bexos: sein volk retten.
 
+sie beraten sich. bexos lauscht heimlich mit. Er zweifelt, dass das hier wirklich die schicksale sind. schickt kuko vor. Sieht die "schicksale"; statue, bett, leseraum, drahenei!, verbrannte wandbilder, 
+
+
+
+wish: thunderbolt -> aux kabel
+star: randomness
 
 
 <!--
