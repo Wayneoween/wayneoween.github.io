@@ -19,6 +19,14 @@ game_date: 17. Kention 499
 
 ## 17. Kention
 
+punkt mittag erreihen wir die insel. leichter nieselregen. felsige klippen umgeben fast alles.
+versi offenbart mit ihren prophezeiungen die machenschaften die schicksale, daher nicht auf gutem Fuße.
+
+eine kümmert sich um die zukunft, eine vergangenheit, eine gegeneart.
+
+wir legen an und folgen einem pfad in die mitte der insel. dort ist ein see/tümpel/sumpf, vier höhlen.
+
+wir versuchen, das schicksal durch Zufall auszutricksen. Timos folgt einer ameise. wir landen in drei verschiedenen höhlen. meine ist genau so hoch wie ich. je tiefer ich gehe, desto werider: gravitation ändert sich. am ende schwarzes loch vor mir. da will ich nicht runter.
 
 <!--
 wir haben companions: https://docs.google.com/document/d/1ecRhZrYZRwu27wDNc-pTEF_OdaFvHtIIgzu1iEV3yVI/edit#
