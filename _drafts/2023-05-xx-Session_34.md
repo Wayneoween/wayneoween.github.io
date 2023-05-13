@@ -94,6 +94,7 @@ kein sternbild, aber reim.
 
 // reim der insel der zeit
 
+nehme mir kupfernes drachenei,, in einem bett aus länglichen edelsteinen
 
 dwish: thunderbolt -> aux kabel
 star: randomness, "möchtest du die zukunft sehen" persistenz
