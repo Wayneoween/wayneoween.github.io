@@ -69,11 +69,20 @@ Dort war die Göttin, die intevierte. SIe hat die schicksale angebettelt um das 
 
 Mytros selbst musste deshalb gehen (die göttin).
 
-daher haben sich die schicksale erlaubt, alle verwandten/freunde/familie aus allen gedächtnissen zu löschen. Nur Bexos und die Schiksale wissen es, aber bexos kann sich nicht erinnern. Alkoholkonsum war wohl schuld, wandteppiche beweisen es. 
+daher haben sich die schicksale erlaubt, alle verwandten/freunde/familie aus allen gedächtnissen zu löschen. Nur Bexos und die Schiksale wissen es, aber bexos kann sich nicht erinnern. Alkoholkonsum war wohl schuld, wandteppiche beweisen es. auf einem ist auch eine frau und ein kind zu sehen.
 
 lutheria hat versucht ihr eigenes schicksal zu verhindern, indem sie denjenen tötet der sie töten wird. Aber niemand kommt dem schicksal zuvor.
 
 Wenn Bexos die sense des todes zerstört, sind alle seine geliebten wieder frei und da wo sie vorher waren.
+
+die schicksale bieten timos an, sein banner zu reparieren. In nur einer viertel Stunde tun sie das auch. Ihnen liegt auch viel daran.
+
+Bexos lässt sich überzeugen, die Zukunft zu sehen. Alles dunkel. rießiger drache, feuerschaden. 
+"Er hat das feuerende gesehen" "der drache, er wird alles vernichten" "vielleicht, es ist nicht das einzige ende".
+
+Lamia erzählt, dass die schicksale nicht durch lutheria ver#ndert wurden. Dass sie immer das selbe ende sehen egal was sie tun, das hat sie verändert.
+
+
 
 
 dwish: thunderbolt -> aux kabel
