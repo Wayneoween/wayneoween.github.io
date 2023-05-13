@@ -107,6 +107,7 @@ star: randomness, "möchtest du die zukunft sehen" persistenz
 
 
 <!--
+insel der schicksale ist beim sternbild der zentauren
 wir haben companions: https://docs.google.com/document/d/1ecRhZrYZRwu27wDNc-pTEF_OdaFvHtIIgzu1iEV3yVI/edit#
 Die Amazonen sind mit der Halbinsel Aresia in Verbindung, 
 der Minotaure Zakroth der Wahnsinnige will seine Volksgenossen in Mytros befreien.
