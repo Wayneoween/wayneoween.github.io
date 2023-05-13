@@ -86,6 +86,14 @@ Die Hexen haben einen zugang zu lutherias meer.
 
 auch tiameia sieht sich eine zukunft an. auch hier zerstört ein drache die welt mit erschreckender leichtigkeit. 
 
+timos schaut sich die dritte zukunft an, der krake holt sich alles. er will sich das drachenei mitnehmen.
+
+"Ihr braucht zeit" -> die gibt es auf der insel der zeit, schwester der lotushexe.
+
+kein sternbild, aber reim.
+
+// reim der insel der zeit
+
 
 dwish: thunderbolt -> aux kabel
 star: randomness, "möchtest du die zukunft sehen" persistenz
