@@ -98,7 +98,9 @@ könnte sternbild des schmieds gemeint sein
 
 nehme mir kupfernes drachenei,, in einem bett aus länglichen edelsteinen. Das ei ist von lutheria als geschenk für die schicksale, sie sollten ihn zum schlechten verleiten.
 
+antikithera auf kriegerin eingestellt. Timos schaut sich noch die 4. höhle an (underdark). Auf rückweg sieht bexos Matikore oben am gipfel.
 
+es ist abends.
 
 dwish: thunderbolt -> aux kabel
 star: randomness, "möchtest du die zukunft sehen" persistenz
