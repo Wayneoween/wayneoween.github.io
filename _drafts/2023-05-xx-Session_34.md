@@ -82,11 +82,13 @@ Bexos lässt sich überzeugen, die Zukunft zu sehen. Alles dunkel. rießiger dra
 
 Lamia erzählt, dass die schicksale nicht durch lutheria ver#ndert wurden. Dass sie immer das selbe ende sehen egal was sie tun, das hat sie verändert.
 
+Die Hexen haben einen zugang zu lutherias meer. 
 
+auch tiameia sieht sich eine zukunft an. auch hier zerstört ein drache die welt mit erschreckender leichtigkeit. 
 
 
 dwish: thunderbolt -> aux kabel
-star: randomness, scene
+star: randomness, "möchtest du die zukunft sehen" persistenz
 
 
 <!--
