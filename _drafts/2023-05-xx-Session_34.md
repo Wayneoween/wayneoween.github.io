@@ -94,7 +94,11 @@ kein sternbild, aber reim.
 
 // reim der insel der zeit
 
-nehme mir kupfernes drachenei,, in einem bett aus länglichen edelsteinen
+könnte sternbild des schmieds gemeint sein
+
+nehme mir kupfernes drachenei,, in einem bett aus länglichen edelsteinen. Das ei ist von lutheria als geschenk für die schicksale, sie sollten ihn zum schlechten verleiten.
+
+
 
 dwish: thunderbolt -> aux kabel
 star: randomness, "möchtest du die zukunft sehen" persistenz
