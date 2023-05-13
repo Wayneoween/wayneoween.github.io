@@ -69,9 +69,11 @@ Dort war die Göttin, die intevierte. SIe hat die schicksale angebettelt um das 
 
 Mytros selbst musste deshalb gehen (die göttin).
 
-daher haben sich die schicksale erlaubt, alle verwandten/freunde/familie aus allen gedächtnissen zu löschen. Nur Bexos und die Schiksale wissen es. 
+daher haben sich die schicksale erlaubt, alle verwandten/freunde/familie aus allen gedächtnissen zu löschen. Nur Bexos und die Schiksale wissen es, aber bexos kann sich nicht erinnern. Alkoholkonsum war wohl schuld, wandteppiche beweisen es. 
 
+lutheria hat versucht ihr eigenes schicksal zu verhindern, indem sie denjenen tötet der sie töten wird. Aber niemand kommt dem schicksal zuvor.
 
+Wenn Bexos die sense des todes zerstört, sind alle seine geliebten wieder frei und da wo sie vorher waren.
 
 
 dwish: thunderbolt -> aux kabel
