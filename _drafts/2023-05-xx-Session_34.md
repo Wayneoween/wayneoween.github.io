@@ -1,7 +1,7 @@
 ---
 date: '2023-05-13 14:00:00'
-title: todo
-excerpt: xx
+title: Thélete na deíte to méllon?
+excerpt: Möchtest du die Zukunft sehen?
 author: Akira die Bardin
 layout: post
 background: "/img/posts/todo.png"
@@ -101,10 +101,6 @@ nehme mir kupfernes drachenei,, in einem bett aus länglichen edelsteinen. Das e
 antikithera auf kriegerin eingestellt. Timos schaut sich noch die 4. höhle an (underdark). Auf rückweg sieht bexos Matikore oben am gipfel.
 
 es ist abends.
-
-dwish: thunderbolt -> aux kabel
-star: randomness, "möchtest du die zukunft sehen" persistenz
-
 
 <!--
 insel der schicksale ist beim sternbild der zentauren
