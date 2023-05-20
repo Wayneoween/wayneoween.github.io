@@ -3,7 +3,7 @@ date: '2023-05-13 14:00:00'
 title: Thélete na deíte to méllon?
 excerpt: Möchtest du die Zukunft sehen?
 author: Akira die Bardin
-layout: post
+layout: post # https://labs.openai.com/e/OljWmtxMq1Pkp090Ht8ms2ed/Ez2hC88LGHuBhf57s4f4KzQC
 background: "/img/posts/todo.png"
 background_pos: 50% 15%
 game_date: 17. Kention 499
@@ -11,7 +11,17 @@ game_date: 17. Kention 499
 
 <div class="rhyme">
   <blockquote>
-
+    Ich sehe meine Zukunft,
+    bedrückend und grau.
+    
+    Du siehst deine Zukunft,
+    auch du wirst nicht schlau,
+    
+    Er sieht seine Zukunft,
+    mit Feuer! und Drachen!
+    
+    Wir sehen unsere Zukunft
+    doch was solchen wir machen?
   </blockquote>
 </div>
 
