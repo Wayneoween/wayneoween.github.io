@@ -6,7 +6,7 @@ author: Rizon Phobas
 layout: post
 background: "/img/posts/DALL·E 2023-07-08 00.25.46 - multiple papyrus scrolls on a marble table in a marble temple.png"
 background_pos: 50% 26%
-game_date: 21. Kention 499
+game_date: 03. Pythion 499
 ---
 
 An dich und für dich, {% include glossary_link.html title="Xander" name="Xander Huorath" %}, aber auch alle die nach uns kommen, werde ich die
