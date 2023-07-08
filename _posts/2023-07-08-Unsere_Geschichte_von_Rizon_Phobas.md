@@ -26,7 +26,7 @@ dafür, was es bedeutete, ein Drachenlord zu sein. Die Siedler zu schützen, den
 Alteingesessenen unsere Werte zu lehren. Du hast stets die Bedeutung der
 Legenden von Thylea im Auge behalten.
 
-# Drachen und Drachenfürsten
+# Drachen und Drachenlords
 
 Unsere Expedition wurde von Königen und Königinnen finanziert, da dir eine
 geheime heilige Mission anvertraut wurde, die von einer ungenannten uralten
@@ -58,7 +58,7 @@ den letzten Tagen des Krieges ebenfalls während eines Überfalls auf Praxys von
 der legendären Ultros verschwand, als wir sie beide wirklich am Meisten brauchten.
 
 - Arystonar, Eidesgeschworene des geheimnisvollen {% include glossary_link.html title="Jason Ventrak" %}, der uns kurz
-nach dem Verlust seines Drachen verließ und in ihren Verhandlungen mit den
+nach dem Verlust seines Drachen verließ und in seinen Verhandlungen mit den
 Schicksalen verloren ging.
 
 Zusammen mit dieser Familie sammelten wir weitere verbündete Drachen:
