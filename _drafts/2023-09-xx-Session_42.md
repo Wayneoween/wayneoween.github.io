@@ -19,8 +19,8 @@ game_date: 06. Pythion 499
 
 ## 7. Pythion
 
-<!-- Wir stellen die antikythera auf das Sternbild des Nymphe ein. Wir besuchen Antigone.
-next time: potion of <> resistance gegen medusen shoppen. -->
+für 500 gold organisieren wir uns noch 5 anti-medusen-tränke, dann legen wir die leinen los. Ziel: Sternbild der Nymphe / Antigone.
+
 
 
 <!--
