@@ -55,7 +55,9 @@ Er zieht wieder von dannen
 
 Timos mariniert nochmal das Ei. Kurz darauf erreichen wir bereits die Insel, sehr zerklüftet und hoch. Wir steigen auf die Eulen und fliegen bewusst sehr hoch. Unter uns breitet sich ein Krater auf, und darin drei Peryton. Antigone ist auch da. Als sie uns entdeckt, pfeift sie in einen voggelschädel der an ihrem hals baumelt. Dann springt sie in einen topf.
 
-<!-- Bild Peryton -->
+<!-- Bild Roc -->
+
+Bexos bringt den topf mit einem geschickten Zauber zum umkippen, Antigone ist eingesperrt. Tiameia haut zweimal drauf, doch raus kommt eine doppelt so große Person, die den Kessen "auswringen" und zu einem Prügel formen kann.
 
 <!--
 Die Amazonen sind mit der Halbinsel Aresia in Verbindung, 
