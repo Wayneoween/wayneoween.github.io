@@ -53,6 +53,10 @@ Auf die Frage, was er gefunden hat meinte er "Die verlorene Stadt der Sirenen". 
 Goloron meint, sein Vater möge uns nicht. Er will Tylea befreien von uns Neuankömmlingen. Mutter hat allerdings andere Pläne mit uns. Wir sind eingeladen. Sie ist krank und leidet unter ihrem eigenen Wesen. 
 Er zieht wieder von dannen
 
+Timos mariniert nochmal das Ei. Kurz darauf erreichen wir bereits die Insel, sehr zerklüftet und hoch. Wir steigen auf die Eulen und fliegen bewusst sehr hoch. Unter uns breitet sich ein Krater auf, und darin drei Peryton. Antigone ist auch da. Als sie uns entdeckt, pfeift sie in einen voggelschädel der an ihrem hals baumelt. Dann springt sie in einen topf.
+
+<!-- Bild Peryton -->
+
 <!--
 Die Amazonen sind mit der Halbinsel Aresia in Verbindung, 
 der Minotaure Zakroth der Wahnsinnige will seine Volksgenossen in Mytros befreien.
