@@ -44,8 +44,14 @@ Im Auge des Wirbelsturms schwebt eine Gestalt. Auf der stirn hat es ein großes 
 
 <!-- bild goloron -->
 
-Der Titan hat uns nicht bemerkt. Wir lassen uns von der strömung in seinen blickbereich treiben, die harpunen auf Anschlag.
+Der Titan hat uns nicht bemerkt. Wir lassen uns von der strömung in seinen blickbereich treiben, die harpunen auf Anschlag. Als er uns sieht, erlischt das leuchten in den Augen. "Suchst du waw?" fragt bexos ihn unschuldig. "Meine Aufgabe ist es, die Tiefen des Meeres zu erkunden". Der Sturm entstand versehentlich.
 
+Chondrus weiß, dass nur Goloron Lutheria besuchen kann. Er hat wohl einen teil ihres wahnsinns abbekommen.
+
+Auf die Frage, was er gefunden hat meinte er "Die verlorene Stadt der Sirenen". Dort haust etwas uraltes, gigantisches.
+
+Goloron meint, sein Vater möge uns nicht. Er will Tylea befreien von uns Neuankömmlingen. Mutter hat allerdings andere Pläne mit uns. Wir sind eingeladen. Sie ist krank und leidet unter ihrem eigenen Wesen. 
+Er zieht wieder von dannen
 
 <!--
 Die Amazonen sind mit der Halbinsel Aresia in Verbindung, 
