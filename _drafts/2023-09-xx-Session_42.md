@@ -60,7 +60,14 @@ Timos mariniert nochmal das Ei. Kurz darauf erreichen wir bereits die Insel, seh
 Bexos bringt den topf mit einem geschickten Zauber zum umkippen, Antigone ist eingesperrt. Tiameia haut zweimal drauf, doch raus kommt eine doppelt so große Person, die den Kessen "auswringen" und zu einem Prügel formen kann.
 
 Mitten im Kampf kommt der gigantische Roc Antigone zur Hilfe. Sie befördern uns mit viel Gewalt in große Höhen. Wir wenden dasselbe auf Antigone an, Timos kürzt z.B. ihren Hals durch 60ft freien Fall, dann flüchtet er vor den Rocs.
+Auch Tiameia landet schwert voran auf Antigone. 
+"Ihr kämpft gegen jemanden der mit den Furien im Bunde ist, wie glaubt ihr gewinnen zu können?" sind ihre letzten worte
+"Sydon hält Balmytria gefangen".
 
+Dann würde sie in die Tiefe fallen, doch Tiameia hält sie fest. Leider lassen die Rocs nicht von uns ab. Einer bedroht Timos in seinem Espenlaub, der andere fliegt auf 160ft mit Kapiosallos davon. 
+Tia wird zur präzisionsschützin und landet einen donnernden treffer auf dem roc mit kapios, dann sprintet sie los um ihn aufgefangen. Der kleine Drache kommt ihr zuvor.
+
+Die Rocs kreisen über uns. Wir regenerieren uns, und verhalten uns ruhig. Den Schatz plündern wir vorsichtshalber nicht.
 
 <!--
 Die Amazonen sind mit der Halbinsel Aresia in Verbindung, 
