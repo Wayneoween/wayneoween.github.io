@@ -67,7 +67,11 @@ Auch Tiameia landet schwert voran auf Antigone.
 Dann würde sie in die Tiefe fallen, doch Tiameia hält sie fest. Leider lassen die Rocs nicht von uns ab. Einer bedroht Timos in seinem Espenlaub, der andere fliegt auf 160ft mit Kapiosallos davon. 
 Tia wird zur präzisionsschützin und landet einen donnernden treffer auf dem roc mit kapios, dann sprintet sie los um ihn aufgefangen. Der kleine Drache kommt ihr zuvor.
 
-Die Rocs kreisen über uns. Wir regenerieren uns, und verhalten uns ruhig. Den Schatz plündern wir vorsichtshalber nicht.
+Die Rocs kreisen über uns. Wir regenerieren uns, und verhalten uns ruhig. Den Schatz plündern wir vorsichtshalber nicht. Lol, doch.
+
+In ihrer Kiste finden wir 1500 gold und eine spell scroll 8: power word: stun
+
+wir sind in bedrängnis, denn wir können uns nicht ungesehen davon stehlen. Bexos erzeugt ein großes Bild von timos, der in die Roc-Pfeife bläst und sich dann in den Abgrund stürzt. Dann hauen wir ab.
 
 <!--
 Die Amazonen sind mit der Halbinsel Aresia in Verbindung, 
