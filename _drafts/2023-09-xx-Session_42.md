@@ -21,6 +21,22 @@ game_date: 06. Pythion 499
 
 für 500 gold organisieren wir uns noch 5 anti-medusen-tränke, dann legen wir die leinen los. Ziel: Sternbild der Nymphe / Antigone.
 
+## 8. Pythion
+
+Tiameia müht sich den ganzen Tag ab, die Kupferschale höher zu wirken. Wird immer unförmiger.
+
+Bexos, Kapios und ihre zwei Drachen machen Flugübungen. Einer stunned die fische, einer wirft sie in die luft und der zweite drache flambiert die fische.
+
+Abends versammelt sich die crew an bord, und timos giest die säure aus der amphore auf das bronzeei und die schüssel. Diese leutet auf und fängt an blasen zu werfen. Sie summt leise, und verstimmt melodiös. Das kupfer wurde frei geäzt und glänzt nun. 
+Reihum werfen die crew bunte blüten in den kessel, die sie von kyrah gbekommen haben. Im Nebel sieht man eine Reflexion des Leuchtens, könnten glyphen sein. Danach fängt das Ei an zu leuchten. 
+
+<!-- In 7 tagen schlüpft mein drache, am 15. volkion -->
+
+## 9. pythion
+keledone bringt uns einen goldenen, platin verzierten armreif (inkl. smaragden).
+
+
+
 
 
 <!--
