@@ -59,6 +59,9 @@ Timos mariniert nochmal das Ei. Kurz darauf erreichen wir bereits die Insel, seh
 
 Bexos bringt den topf mit einem geschickten Zauber zum umkippen, Antigone ist eingesperrt. Tiameia haut zweimal drauf, doch raus kommt eine doppelt so große Person, die den Kessen "auswringen" und zu einem Prügel formen kann.
 
+Mitten im Kampf kommt der gigantische Roc Antigone zur Hilfe. Sie befördern uns mit viel Gewalt in große Höhen. Wir wenden dasselbe auf Antigone an, Timos kürzt z.B. ihren Hals durch 60ft freien Fall, dann flüchtet er vor den Rocs.
+
+
 <!--
 Die Amazonen sind mit der Halbinsel Aresia in Verbindung, 
 der Minotaure Zakroth der Wahnsinnige will seine Volksgenossen in Mytros befreien.
