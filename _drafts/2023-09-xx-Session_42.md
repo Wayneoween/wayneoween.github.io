@@ -35,8 +35,16 @@ Reihum werfen die crew bunte blüten in den kessel, die sie von kyrah gbekommen 
 ## 9. pythion
 keledone bringt uns einen goldenen, platin verzierten armreif (inkl. smaragden).
 
+Tiameia versucht herauszufinden wo sie ein Ei herbekommt. Kyrah ist zu emotional, vermutlich ist sie selbst ein bronzedrache.
+pythor versucht zu helfen, ist aber sehr mysteriös. Goldende Münze, Sonnenaufrang, Helios. Irgendwie soowas.
 
+Bexos will wetter kontrollierne, aber zum ersten mal funktioniert es nicht wie gewohnt. Es kommt ein ganzer sturm. Pythor: "Wir sind in den vergessenen Meeren". Wir fahren auf einen Wirbelsturm zu, direkt. Bexos wird von bord geschwemmt und kommt halb so gros wieder raus.
 
+Im Auge des Wirbelsturms schwebt eine Gestalt. Auf der stirn hat es ein großes grünes Auge, wehender Umhang. Ein Kind Sydons, Goloron, der unnahbare.
+
+<!-- bild goloron -->
+
+Der Titan hat uns nicht bemerkt. Wir lassen uns von der strömung in seinen blickbereich treiben, die harpunen auf Anschlag.
 
 
 <!--
