@@ -71,7 +71,7 @@ Die Rocs kreisen über uns. Wir regenerieren uns, und verhalten uns ruhig. Den S
 
 In ihrer Kiste finden wir 1500 gold und eine spell scroll 8: power word: stun
 
-wir sind in bedrängnis, denn wir können uns nicht ungesehen davon stehlen. Bexos erzeugt ein großes Bild von timos, der in die Roc-Pfeife bläst und sich dann in den Abgrund stürzt. Dann hauen wir ab.
+wir sind in bedrängnis, denn wir können uns nicht ungesehen davon stehlen. Bexos erzeugt ein großes Bild von timos, der in die Roc-Pfeife bläst und sich dann in den Abgrund stürzt. Dann hauen wir ab. Hinter uns implodiert der ganze Krater, und unsere Eulen bringenuns wieder zurück.
 
 <!--
 Die Amazonen sind mit der Halbinsel Aresia in Verbindung, 
