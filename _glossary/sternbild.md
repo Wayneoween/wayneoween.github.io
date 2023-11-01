@@ -7,7 +7,7 @@ icon: ort
 1. Der Gygane: Yonder
 2. Der Gefangene: Die Feuerinsel
 3. Das goldene Herz: ???
-4. Töchter: Die Insel der Chimären
+4. Der Schwindler: Die Insel der Chimären
 5. Der Barde: Die Schicksale
 6. Der Krieger: Die Insel der Verbannten
 7. Der Zentaure: Die Insel der Skorpione und Lotus Hexe
