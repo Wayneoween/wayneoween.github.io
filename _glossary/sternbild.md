@@ -14,10 +14,10 @@ icon: ort
 8. Die Königin: ???
 9. Die Zwillinge: Themis
 10. Die Ameise: ???
-11. Der Drache: Moxena
+11. Der Drache: {% include glossary_link.html title="Moxena" %}
 12. Die Nymphe: Die Insel der Rocs
 13. Der Speer: ???
 14. Der Streitwagen: Helios
 15. Der Schmied: Die Insel der Zeit
-16. Der Titan: Sydon
-17. Der Träumer: Lutheria
+16. Der Titan: {% include glossary_link.html title="Sydon" name="Sydon, Herr der Stürme" %}
+17. Der Träumer: {% include glossary_link.html title="Lutheria" name="Lutheria, Herrin des Todes" %}

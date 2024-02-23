@@ -4,7 +4,8 @@ title: I istoría mas apó ton Rizón Fóvas
 excerpt: Die Xanderiad, unsere Geschichte von Rizon Phobas
 author: Rizon Phobas
 layout: post
-background: "/img/posts/DALL·E 2023-07-08 00.25.46 - multiple papyrus scrolls on a marble table in a marble temple.png"
+background: "/img/posts/DALL·E 2023-07-08 00.25.46 - multiple papyrus scrolls on a
+  marble table in a marble temple.png"
 background_pos: 50% 26%
 game_date: 03. Pythion 499
 ---
