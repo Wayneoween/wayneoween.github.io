@@ -7,3 +7,4 @@ gem 'jekyll-theme-clean-blog'
 
 gem 'nokogiri'
 gem 'webrick'
+gem 'csv'
