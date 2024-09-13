@@ -8,3 +8,6 @@ Amazone von Themis, die mit ihren Schwestern {% include glossary_link.html title
 Alle bis auf eine: Tiameia.
 
 Verbreitet Furcht in den dunklen Ecken von {% include glossary_link.html title="Mytros" %} als die Schatzmeisterin und Kopf der Diebesgilde mit dem Namen Kult der Schlange.
+
+Ist zu ihrer Herrin Hexia geflohen.
+

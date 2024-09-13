@@ -16,3 +16,6 @@ Zusammen mit ihrem Bruder und Mann {% include glossary_link.html title="Sydon" n
 - {% include glossary_link.html title="Hergeron" name="Hergeron der Gerissene" %}
 - {% include glossary_link.html title="Talieus" name="Talieus der Stolze" %}
 - {% include glossary_link.html title="Yala" name="Yala die Kriegerin" %}
+
+Von den Helden der Prophezeihung besiegt.
+
